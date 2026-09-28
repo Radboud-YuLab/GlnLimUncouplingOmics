@@ -1,0 +1,49 @@
+UniProt Accession Number,UPS1 Amount (fmol),UPS2 Amount (fmol),UniProt Protein Name [Synonym],MW,Source or recombinant,Host,Tag,Potential PTMs
+P00915,5000,50000,Carbonic anhydrase 1,28738,Erythrocytes,,,Acetylation
+P00918,5000,50000,Carbonic anhydrase 2,29115,Erythrocytes,,,Acetylation
+P01031,5000,50000,Complement C5 [Complement C5a],8536,Recombinant,E. coli,,
+P69905,5000,50000,Hemoglobin alpha chain,15126,Erythrocytes,,,
+P68871,5000,50000,Hemoglobin beta chain,15867,Erythrocytes,,,"Acetylation, nitrosylation, glycosylation"
+P41159,5000,50000,Leptin,16158,Recombinant,E. coli,,
+P02768,5000,50000,Serum Albumin,66357,Recombinant,Pichia pastoris,,
+P62988,5000,50000,Ubiquitin,10597,Recombinant,E. coli,6-His,
+P04040,5000,5000,Catalase,59625,Erythrocytes,,,
+P00167,5000,5000,Cytochrome b5,16022,Recombinant,E. coli,6-His,
+P01133,5000,5000,Epidermal Growth Factor,6353,Recombinant,E. coli,,
+P02144,5000,5000,Myoglobin C,17053,Heart,,,
+P15559,5000,5000,NAD(P)H dehydrogenase [quinone] 1 [DT Diaphorase] C,30736,Recombinant,E. coli,,
+P62937,5000,5000,Peptidyl-prolyl cis-trans isomerase A [Cyclophilin A],20176,Recombinant,E. coli,,
+Q06830,5000,5000,Peroxiredoxin 1,21979,Recombinant,E. coli,,
+P63165,5000,5000,Small ubiquitin-related modifier 1 [SUMO-1],38815,Recombinant,E. coli,GST,
+P00709,5000,500,Alpha-lactalbumin,14078,Milk,,,Glycosylation
+P06732,5000,500,Creatine kinase M-type [CK-MM],43101,Heart,,,
+P12081,5000,500,Histidyl-tRNA synthetase [Jo-1],58233,Recombinant,E. coli,,
+P61626,5000,500,Lysozyme C,14701,Milk,,,
+Q15843,5000,500,Neddylin [Nedd8],9072,Recombinant,E. coli,,
+P02753,5000,500,Retinol-binding protein,21071,Urine,,,
+P16083,5000,500,Ribosyldihydronicotinamide dehydrogenase [quinone] [Quinone oxidoreductase 2] [NQO2],25821,Recombinant,E. coli,,
+P63279,5000,500,Ubiquitin-conjugating enzyme E2 I [UbcH9],18007,Recombinant,E. coli,,
+P01008,5000,50,Antithrombin-III,49039,Plasma,,,Glycosylation
+P61769,5000,50,Beta-2-microglobulin,11731,Urine,,,
+P55957,5000,50,BH3 Interacting domain death agonist [BID],21995,Recombinant,E. coli,,
+O76070,5000,50,Gamma-synuclein,15363,Recombinant,E. coli,,
+P08263,5000,50,Glutathione S-transferase A1 [GST A1-1],25500,Recombinant,E. coli,,
+P01344,5000,50,Insulin-like growth factor II,7475,Recombinant,E. coli,,
+P01127,5000,50,Platelet-derived growth factor B chain,12294,Recombinant,E. coli,,
+P10599,5000,50,Thioredoxin,12429,Recombinant,E. coli,6-His,
+P99999,5000,5,Cytochrome c[Apocytochrome c],11618,Recombinant,E. coli,,
+P06396,5000,5,Gelsolin,82959,Plasma,,,Phosphorylation
+P09211,5000,5,Glutathione S-transferase P [GST],23225,Placenta,,,
+P01112,5000,5,GTPase HRas [Ras protein],21298,Recombinant,E. coli,,
+P01579,5000,5,Interferon gamma (IFN-gamma),16879,Recombinant,E. coli,,
+P02787,5000,5,Serotransferrin [Apotransferrin],75181,Plasma,,,Glycosylation
+O00762,5000,5,Ubiquitin-conjugating enzyme E2 C [UbcH10],20475,Recombinant,E. coli,6-His,
+P51965,5000,5,Ubiquitin-conjugating enzyme E2 E1 [UbcH6],22227,Recombinant,E. coli,6-His,
+P08758,5000,0.5,Annexin A 5,35806,Placenta,,,Acetylation
+P02741,5000,0.5,C-reactive protein,23047,Plasma,,,
+P05413,5000,0.5,Fatty acid-binding protein,14727,Plasma,,,"Acetylation, phosphorylation"
+P10145,5000,0.5,Interleukin-8,8386,Recombinant,E. coli,,
+P02788,5000,0.5,Lactotransferrin,76165,Milk,,,Glycosylation
+P10636,5000,0.5,Microtubule-associated protein tau [Tau protein],45719,Recombinant,E. coli,6-His,
+P00441,5000,0.5,Superoxide dismutase [Cu-Zn],15805,Erythrocytes,,,Acetylation
+P01375,5000,0.5,Tumor necrosis factor [TNF-alpha],17353,Recombinant,E. coli,,
